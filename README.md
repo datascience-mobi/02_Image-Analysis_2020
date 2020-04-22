@@ -1,14 +1,5 @@
----
-title: "Topic X: Biomedical Image Analysis"
-author: "PD Dr. Karl Rohr"
-output:
-  html_document:
-    toc: true
-vignette: >
-  %\VignetteIndexEntry{Vignette Title}
-  %\VignetteEngine{knitr::rmarkdown}
-  %\VignetteEncoding{UTF-8}
----
+Project 02: Biomedical Image Analysis
+============================================================
 
 Supervisor: 
 
